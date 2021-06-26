@@ -1,7 +1,7 @@
 # 👋  I am Animikh !
 [![Visits Badge](https://badges.pufler.dev/visits/animikhaich/animikhaich)](https://badges.pufler.dev)
 
-I thrive in the world of ideas, design and development. That's where the most fun, creative, boundary-breaking work happens. I am a 4x USPTO individual patent inventor and I work on lot of NLP related reasearch. If you're interested in the work I do, please consider supporting me on GitHub! (Sponsor link will be up shortly)
+I am currently working as the Team Lead (Computer Vision) of the Product Team at Wobot Intelligence. My daily work includes leading the development of POCs and Products for the Delhi Office.
 
 ![Animikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animikhaich&show_icons=true&theme=radical)
 
