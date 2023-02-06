@@ -3,7 +3,7 @@
 
 # 🧐 About Me
 
-Hi there! My name is Animikh and I'm a graduate student pursuing my MS in Artificial Intelligence at Boston University. As a passionate coder and builder of intelligent systems, I am currently associated with two labs at Boston University: [BIT Lab](https://www.leedokyun.com/bitlab.html) and [H2X Lab](https://eshed1.github.io/).
+Hi there! My name is Animikh and I'm a graduate student pursuing my MS in Artificial Intelligence at Boston University. As a passionate coder and builder of intelligent systems, I am currently associated with two labs @ BU: [BIT Lab](https://www.leedokyun.com/bitlab.html) and [H2X Lab](https://eshed1.github.io/).
 
 My research interests lie in the fields of Generative AI, Autonomous Systems, Scene Understanding, and Self-Supervised Learning. With my previous industry experience in building real-time video analytics solutions and leading a team of engineers, I am well-equipped to tackle challenging projects and bring my ideas to life.
 
@@ -12,6 +12,9 @@ Visit my Github page and feel free to contact me if you're interested in finding
 # 💻 Tech Stack
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,10 +32,6 @@ Visit my Github page and feel free to contact me if you're interested in finding
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # 📊 GitHub Stats
 ![Animikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animikhaich&show_icons=true&theme=radical)
