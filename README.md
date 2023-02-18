@@ -1,10 +1,10 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=1000&color=086fc9&width=500&lines=Animikh+Aich+%F0%9F%9A%80;Boston+University+%F0%9F%8E%93;MS+in+Artificial+Intelligence+%F0%9F%A4%96;I+%E2%9D%A4%EF%B8%8F+Building+Intelligent+Systems+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
 
-[![status](https://badge.stateful.com/animikhaich/status.svg)](Status for @animikhaich)
-[![status](https://badge.stateful.com/animikhaich/dnd.svg)](DnD for @animikhaich)
 
 # 🧐 About Me
+![status](https://badge.stateful.com/animikhaich/status.svg)
+![status](https://badge.stateful.com/animikhaich/dnd.svg)
 
 Hi there! My name is Animikh and I'm a graduate student pursuing my MS in Artificial Intelligence at Boston University. As a passionate coder and builder of intelligent systems, I am currently associated with two labs @ BU: [BIT Lab](https://www.leedokyun.com/bitlab.html) and [H2X Lab](https://eshed1.github.io/).
 
