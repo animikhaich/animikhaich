@@ -38,8 +38,8 @@ Visit my Github page and feel free to contact me if you're interested in finding
 
 # 📊 Stats
 ![Animikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animikhaich&show_icons=true&theme=radical)
-![Coding Activity](https://wakatime.com/share/@animikhaich/e39b63f8-1cad-4904-98a9-f02b8726c54d.svg)
-![Languages](https://wakatime.com/share/@animikhaich/b2a9389d-acc9-49a5-869a-69cf147ad309.png)
+<img src="https://wakatime.com/share/@animikhaich/e39b63f8-1cad-4904-98a9-f02b8726c54d.svg" alt="Logo" width="470" height="300">
+<img src="https://wakatime.com/share/@animikhaich/acef0074-3448-4724-9ec0-eb343127c472.svg" alt="Logo" width="470" height="300">
 
 # 🔗 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animikh-aich/)
