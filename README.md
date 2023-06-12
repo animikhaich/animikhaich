@@ -1,16 +1,19 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=1000&color=086fc9&width=500&lines=Animikh+Aich+%F0%9F%9A%80;Boston+University+%F0%9F%8E%93;MS+in+Artificial+Intelligence+%F0%9F%A4%96;I+%E2%9D%A4%EF%B8%8F+Building+Intelligent+Systems+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="750" height="450"/>
 
 # 🧐 About Me
 ![status](https://badge.stateful.com/animikhaich/status.svg)
 ![status](https://badge.stateful.com/animikhaich/dnd.svg)
 
-Hi there! My name is Animikh and I'm a graduate student pursuing my MS in Artificial Intelligence at Boston University. As a passionate coder and builder of intelligent systems, I am currently associated with two labs @ BU: [BIT Lab](https://www.leedokyun.com/bitlab.html) and [H2X Lab](https://eshed1.github.io/).
+👋 Hi there! I'm Animikh and I'm a Machine Learning Engineer, who loves to watch Anime and play Video Games. I'm a MS in AI student working with Prof. Eshed Ohn-Bar on end-to-end **Autonomous Driving** @ [H2X Lab](https://eshed1.github.io/).
 
-My research interests lie in the fields of Generative AI, Autonomous Systems, Scene Understanding, and Self-Supervised Learning. With my previous industry experience in building real-time video analytics solutions and leading a team of engineers, I am well-equipped to tackle challenging projects and bring my ideas to life.
+Before this, I was a Computer Vision Engineer and Lead @ [Wobot.ai](https://wobot.ai/), where I spearheaded the development of a robust Deep Learning tech stack, that powers real-time video analytics across hundreds of cameras worldwide today.
 
-Visit my Github page and feel free to contact me if you're interested in finding out more about my work or perhaps working together on projects that are connected to my areas of interest. Together, let's create something amazing!
+I ❤️ to build and believe Multi-Modal Self-Supervised Learning is the path to AGI 🤫. I focus on Generative AI, Autonomous Driving, Scene Understanding and 3D Vision.
+
+I'm always open to new opportunities and a nice chat ☕. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/animikh-aich/) or [animikhaich@gmail.com](mailto:animikhaich@gmail.com).
 
 # 💻 Tech Stack
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -37,7 +40,7 @@ Visit my Github page and feel free to contact me if you're interested in finding
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 Stats
-<!-- ![Animikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animikhaich&show_icons=true&theme=radical) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=animikhaich&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=470)](https://git.io/streak-stats)
 <img src="https://wakatime.com/share/@animikhaich/e39b63f8-1cad-4904-98a9-f02b8726c54d.svg" alt="Logo" width="470" height="300">
 <img src="https://wakatime.com/share/@animikhaich/acef0074-3448-4724-9ec0-eb343127c472.svg" alt="Logo" width="470" height="300">
 
