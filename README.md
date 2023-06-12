@@ -1,5 +1,4 @@
-
-<p align='center' ><img class='top' width='550' src= 'https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=1000&color=086fc9&width=500&lines=Animikh+Aich+%F0%9F%9A%80;Boston+University+%F0%9F%8E%93;MS+in+Artificial+Intelligence+%F0%9F%A4%96;I+%E2%9D%A4%EF%B8%8F+Building+Intelligent+Systems+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB'></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1500&pause=1000&center=true&vCenter=true&width=650&height=60&lines=Animikh+Aich+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;I+%F0%9F%92%99+Building+Intelligent+Systems+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%A1" alt="Typing SVG" /></a>
 
 <p align='center' ><img class='top' style="border-radius:10%;"height='300' src= 'https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif'></p>
 
