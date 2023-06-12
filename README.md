@@ -6,7 +6,7 @@
 ![status](https://badge.stateful.com/animikhaich/status.svg)
 ![status](https://badge.stateful.com/animikhaich/dnd.svg)
 
-👋 Hi there! I'm Animikh and I'm a Machine Learning Engineer, who loves to watch Anime and play Video Games. I'm a MS in AI student working with Prof. Eshed Ohn-Bar on end-to-end **Autonomous Driving** @ [H2X Lab](https://eshed1.github.io/).
+👋 Hi there! I'm Animikh and I'm a Machine Learning Engineer, who loves to watch Anime and play Video Games. I'm also a MS in AI student working with Prof. Eshed Ohn-Bar on end-to-end **Autonomous Driving** @ [H2X Lab](https://eshed1.github.io/).
 
 Before this, I was a Computer Vision Engineer and Lead @ [Wobot.ai](https://wobot.ai/), where I spearheaded the development of a robust Deep Learning tech stack, that powers real-time video analytics across hundreds of cameras worldwide today.
 
