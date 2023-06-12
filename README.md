@@ -1,7 +1,7 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=1000&color=086fc9&width=500&lines=Animikh+Aich+%F0%9F%9A%80;Boston+University+%F0%9F%8E%93;MS+in+Artificial+Intelligence+%F0%9F%A4%96;I+%E2%9D%A4%EF%B8%8F+Building+Intelligent+Systems+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
+<p align='center' ><img class='top' width='550' src= 'https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=1000&color=086fc9&width=500&lines=Animikh+Aich+%F0%9F%9A%80;Boston+University+%F0%9F%8E%93;MS+in+Artificial+Intelligence+%F0%9F%A4%96;I+%E2%9D%A4%EF%B8%8F+Building+Intelligent+Systems+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB'></p>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="750" height="450"/>
+<p align='center' ><img class='top' style="border-radius:10%;"height='300' src= 'https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif'></p>
 
 # 🧐 About Me
 ![status](https://badge.stateful.com/animikhaich/status.svg)
@@ -40,6 +40,7 @@ I'm always open to new opportunities and a nice chat ☕. Feel free to reach out
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=animikhaich&theme=onestar&row=1&column=5)](https://github.com/animikhaich/github-profile-trophy)
 [![GitHub Streak](https://streak-stats.demolab.com?user=animikhaich&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=470)](https://git.io/streak-stats)
 <img src="https://wakatime.com/share/@animikhaich/e39b63f8-1cad-4904-98a9-f02b8726c54d.svg" alt="Logo" width="470" height="300">
 <img src="https://wakatime.com/share/@animikhaich/acef0074-3448-4724-9ec0-eb343127c472.svg" alt="Logo" width="470" height="300">
