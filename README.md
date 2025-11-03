@@ -6,8 +6,8 @@
 
 👋 Hi, I'm Animikh! A Machine Learning Engineer passionate about building intelligent systems, with a love for Anime and Video Games.
 
-- 🔭 I’m currently working as a Computer Vision and Machine Learning Engineer at **Moultrie**, developing next-gen CV algorithms for wildlife monitoring.
-- 🎓 I hold an MS in AI from **Boston University**, where my research focused on end-to-end **Autonomous Driving** at the **H2X Lab**.
+- 🔭 I’m currently working as a Computer Vision and Machine Learning Engineer at **[Moultrie](https://www.moultrie.com/)**, developing next-gen CV algorithms for wildlife monitoring.
+- 🎓 I hold an MS in AI from **Boston University**, where my research focused on end-to-end **Autonomous Driving** at the **[H2X Lab](https://eshed1.github.io/)**.
 - 👨‍💻 Previously, I was the Computer Vision Engineer and Lead at **Wobot.ai**, where I built a real-time video analytics tech stack from the ground up.
 - 🌱 My core interests lie in **Generative AI**, **Multi-Modal Learning**, and the path to **AGI**.
 - 💬 Let's connect! I'm always open to new opportunities and a good chat. Find me on [LinkedIn](https://www.linkedin.com/in/animikh-aich/) or drop me an email at [animikhaich@gmail.com](mailto:animikhaich@gmail.com).
