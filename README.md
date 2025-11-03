@@ -65,7 +65,7 @@
 
 # 📊 Some Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=animikhaich&theme=onestar&row=1&column=5)](https://github.com/animikhaich/github-profile-trophy)
-[![GitHub Streak](https.streak-stats.demolab.com?user=animikhaich&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=470)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=animikhaich&theme=cobalt&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 # 🔗 Connect With Me
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/animikh_aich)
