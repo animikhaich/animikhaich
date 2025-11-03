@@ -4,16 +4,13 @@
 
 # 🧐 About Me
 
-👋 Hi there! I'm Animikh, a Machine Learning Engineer with a passion for Anime and Video Games. I'm currently working as a Computer Vision and Machine Learning Engineer at [Moultrie](https://www.moultrieproducts.com/) - An EBSCO Company. Here, we're developing next-generation Computer Vision algorithms for Cellular Trail Cameras, aimed at enhancing wildlife monitoring.
+👋 Hi, I'm Animikh! A Machine Learning Engineer passionate about building intelligent systems, with a love for Anime and Video Games.
 
-I graduated with an MS in AI from Boston University, where I worked under Prof. Eshed Ohn-Bar at the [H2X Lab](https://eshed1.github.io/). My research focused on end-to-end **Autonomous Driving**, specifically on closing the Sim2Real gap and developing offline and online driving evaluation metrics for my thesis.
-
-Previously, I was the Computer Vision Engineer and Lead at [Wobot.ai](https://wobot.ai/), where I spearheaded the development of a robust deep learning tech stack that powers real-time video analytics across hundreds of cameras worldwide.
-
-I ❤️ building things and strongly believe that Multi-Modal Self-Supervised Learning is key to AGI 🤫. My areas of focus include Generative AI, Multi-Modal Learning, and more.
-
-I'm always open to new opportunities and a good chat ☕. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/animikh-aich/) or reach out at [animikhaich@gmail.com](mailto:animikhaich@gmail.com).
-
+- 🔭 I’m currently working as a Computer Vision and Machine Learning Engineer at **Moultrie**, developing next-gen CV algorithms for wildlife monitoring.
+- 🎓 I hold an MS in AI from **Boston University**, where my research focused on end-to-end **Autonomous Driving** at the **H2X Lab**.
+- 👨‍💻 Previously, I was the Computer Vision Engineer and Lead at **Wobot.ai**, where I built a real-time video analytics tech stack from the ground up.
+- 🌱 My core interests lie in **Generative AI**, **Multi-Modal Learning**, and the path to **AGI**.
+- 💬 Let's connect! I'm always open to new opportunities and a good chat. Find me on [LinkedIn](https://www.linkedin.com/in/animikh-aich/) or drop me an email at [animikhaich@gmail.com](mailto:animikhaich@gmail.com).
 
 # 💻 Tech Stack
 
@@ -68,14 +65,11 @@ I'm always open to new opportunities and a good chat ☕. Feel free to connect w
 
 # 📊 Some Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=animikhaich&theme=onestar&row=1&column=5)](https://github.com/animikhaich/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com?user=animikhaich&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=470)](https://git.io/streak-stats)
-<img src="https://wakatime.com/share/@animikhaich/e39b63f8-1cad-4904-98a9-f02b8726c54d.svg" alt="Logo" width="470" height="300">
-<img src="https://wakatime.com/share/@animikhaich/acef0074-3448-4724-9ec0-eb343127c472.svg" alt="Logo" width="470" height="300">
+[![GitHub Streak](https.streak-stats.demolab.com?user=animikhaich&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=470)](https://git.io/streak-stats)
 
 # 🔗 Connect With Me
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AichAnimikh)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/animikh_aich)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animikh-aich/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animikhaich@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/animikh.aich/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=S11dA3AAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Animikh-Aich)
