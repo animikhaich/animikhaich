@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1500&pause=1000&center=true&vCenter=true&width=600&lines=Animikh+Aich+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;I+%F0%9F%92%99+Building+Intelligent+Systems+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%A1" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1500&pause=1000¢er=true&vCenter=true&width=600&lines=Animikh+Aich+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;I+%F0%9F%92%99+Building+Intelligent+Systems+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%A1" alt="Typing SVG" /></a></p>
 
 <p align='center' ><img class='top' style="border-radius:10%;"height='300' src= 'https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif'></p>
 
@@ -77,3 +77,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animikhaich@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=S11dA3AAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Animikh-Aich)
+
