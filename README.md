@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;duration=1500&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Animikh+Aich+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;I+%F0%9F%92%99+Building+Intelligent+Systems+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1500&pause=1000&center=true&vCenter=true&width=600&lines=Animikh+Aich+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;I+%F0%9F%92%99+Building+Intelligent+Systems+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,9 +20,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animikhaich&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=animikhaich&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=animikhaich&theme=dracula)
-![](https://github-profile-trophy.vercel.app/?username=animikhaich&theme=onestar&row=1&column=6)
-![](https://streak-stats.demolab.com?user=animikhaich&theme=cobalt&hide_border=true&card_width=600)
-
 
 # 💻 Tech Stack
 
