@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1500&pause=1000&center=true&vCenter=true&width=600&lines=Animikh+Aich+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;I+%F0%9F%92%99+Building+Intelligent+Systems+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Learning+and+Growing+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </p>
@@ -10,11 +10,11 @@
 
 👋 Hi, I'm Animikh! I specialize in building and scaling end-to-end Machine Learning Systems. 
 
-- 🔭 I’m currently working as a **Computer Vision and Machine Learning Engineer** at **[Moultrie](https://www.moultrie.com/)**, developing next-gen CV algorithms for wildlife monitoring.
-- 🎓 I hold an MS in AI from **Boston University**, where my research focused on end-to-end **Autonomous Driving** at the **[H2X Lab](https://eshed1.github.io/)**. We recently published at [IROS '25](https://arxiv.org/abs/2510.08571).
-- 👨‍💻 Previously, I was the **Computer Vision Engineer and Lead** at **[Wobot.ai](https://wobot.ai/)**, where I built a real-time video analytics from the ground up and scaled globally.
+- 🔭 I’m currently working as a **Computer Vision and Machine Learning Engineer** at **<a href="https://www.moultrie.com/" target="_blank" rel="noopener noreferrer">Moultrie</a>**, developing next-gen CV algorithms for wildlife monitoring.
+- 🎓 I hold an MS in AI from **Boston University**, where my research focused on end-to-end **Autonomous Driving** at the **<a href="https://eshed1.github.io/" target="_blank" rel="noopener noreferrer">H2X Lab</a>**. We recently published at <a href="https://arxiv.org/abs/2510.08571" target="_blank" rel="noopener noreferrer">IROS '25</a>.
+- 👨‍💻 Previously, I was the **Computer Vision Engineer and Lead** at **<a href="https://wobot.ai/" target="_blank" rel="noopener noreferrer">Wobot.ai</a>**, where I built a real-time video analytics from the ground up and scaled globally.
 - 🌱 My core interests lie in **Computer Vision**, **Multi-Modal AI**, and **Software Engineering**.
-- 💬 Let's connect! I'm up for a good chat. Find me on [X](https://x.com/animikh_aich) and [LinkedIn](https://www.linkedin.com/in/animikh-aich).
+- 💬 Let's connect! I'm up for a good chat. Find me on <a href="https://x.com/animikh_aich" target="_blank" rel="noopener noreferrer">X</a> and <a href="https://www.linkedin.com/in/animikh-aich" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
 
 # 📊 Some Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animikhaich&theme=dracula)
@@ -73,8 +73,8 @@
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 # 🔗 Connect With Me
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/animikh_aich)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animikh-aich/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animikhaich@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=S11dA3AAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Animikh-Aich)
+<a href="https://x.com/animikh_aich" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+<a href="https://www.linkedin.com/in/animikh-aich/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:animikhaich@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://scholar.google.com/citations?user=S11dA3AAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+<a href="https://www.researchgate.net/profile/Animikh-Aich" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"></a>
