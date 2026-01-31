@@ -75,6 +75,6 @@
 # 🔗 Connect With Me
 <a href="https://x.com/animikh_aich" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
 <a href="https://www.linkedin.com/in/animikh-aich/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:animikhaich@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:animikhaich@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://scholar.google.com/citations?user=S11dA3AAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 <a href="https://www.researchgate.net/profile/Animikh-Aich" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"></a>
