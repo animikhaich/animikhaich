@@ -134,6 +134,7 @@
 ![Replicate](https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=Replicate&logoColor=white)
 
 ### 🗄️ Databases
+![Qdrant](https://img.shields.io/badge/Qdrant-090E1A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTIwIj48cGF0aCBmaWxsPSIjRjQ2MTdBIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik01MCw4IEw5MCwyOSBMNTAsNTAgTDEwLDI5IFogTTUwLDIyIEw3NCwzMyBMNTAsNDQgTDI2LDMzIFoiLz48cGF0aCBmaWxsPSIjREMyNDRDIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMCwyOSBMNTAsNTAgTDUwLDkyIEwxMCw3MSBaIE0yNiwzMyBMNTAsNDQgTDUwLDcyIEwyNiw2MSBaIi8+PHBhdGggZmlsbD0iIzlFMEQzOCIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNOTAsMjkgTDkwLDcxIEw1MCw5MiBMNTAsNTAgWiBNNzQsMzMgTDc0LDYxIEw1MCw3MiBMNTAsNDQgWiIvPjxwb2x5Z29uIGZpbGw9IiM5RTBEMzgiIHBvaW50cz0iNzQsNjEgOTAsNzEgOTAsOTcgNTAsMTE4IDUwLDkyIDc0LDcyIi8+PHBvbHlnb24gZmlsbD0iI0Y0NjE3QSIgcG9pbnRzPSI1MCwzNiA2Miw0MyA1MCw1MCAzOCw0MyIvPjxwb2x5Z29uIGZpbGw9IiNEQzI0NEMiIHBvaW50cz0iMzgsNDMgNTAsNTAgNTAsNjQgMzgsNTciLz48cG9seWdvbiBmaWxsPSIjOUUwRDM4IiBwb2ludHM9IjYyLDQzIDYyLDU3IDUwLDY0IDUwLDUwIi8+PC9zdmc+&logoColor=F4617A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
