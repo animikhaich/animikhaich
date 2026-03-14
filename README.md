@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Impact Highlights
+## 🚀 Professional Impact Highlights
 
 <div align="center">
 
@@ -70,7 +70,10 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| 🎨 [Wallpaper AI](http://wallpaperai.animikh.me/) | Stable Diffusion · GenAI | Generates high-quality 4K wallpapers from text prompts with enhancement |
+| 📝 [DigitizeMyNotes](https://digitizemynotes.com/) | LLMs · OCR · RAG | Converts handwritten notes to searchable digital text with AI chat, math recognition & export |
+| 🎬 [Video Search](https://videosearch.animikh.me/) | React · Qdrant · VideoPrism | AI-powered semantic video discovery — find videos by describing what you're looking for |
+| 🖼️ [Image Search](https://imagesearch.animikh.me/) | React · Qdrant · CLIP | AI-powered semantic image discovery — find visually similar content from natural language descriptions |
+| 🎨 [Wallpaper AI](https://wallpaperai.animikh.me/) | Stable Diffusion · GenAI | Generates high-quality 4K wallpapers from text prompts with enhancement |
 | 🚗 [Autonomous Driving](https://arxiv.org/abs/2510.08571) | PyTorch · CARLA | End-to-end CIL in a real-world model city · [Video](https://youtu.be/sYv0JlMJbRw) |
 | 🌌 [3D Text2LIVE](https://github.com/animikhaich/3D-Text2LIVE) | NeRF · Gen AI | 3D appearance editing of objects via text prompts |
 | 🛡️ [Real-Time Face Blur](https://github.com/animikhaich/OpenVINO-Real-Time-Face-Anonymizer) | OpenVINO · Edge AI | CPU-optimized privacy-preserving face anonymization |
