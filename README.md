@@ -81,10 +81,6 @@
 
 [![Animikh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=animikhaich&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=animikhaich&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
