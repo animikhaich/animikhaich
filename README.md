@@ -59,7 +59,7 @@
 | 2025 | [LatentGAN Autoencoder: Learning Disentangled Latent Distribution](https://arxiv.org/abs/2204.02010) | arXiv | Co-Author |
 | 2024 | [Towards Closing the Generalization Gap in Autonomous Driving](https://hdl.handle.net/2144/49890) | MS Thesis, Boston University | First Author |
 | 2024 | [Generative AI, Human Creativity, and Art](https://academic.oup.com/pnasnexus/article/3/3/pgae052/7618478) | PNAS Nexus | Acknowledgement |
-| 2019 | Sentiment Analysis of Restaurant Reviews Using ML Techniques | ICERECT / Springer · 🏆 **Best Paper Award** | Co-Author |
+| 2019 | [Sentiment Analysis of Restaurant Reviews Using Machine Learning Techniques](https://link.springer.com/chapter/10.1007/978-981-13-5802-9_60) | ICERECT / Springer · 🏆 **Best Paper Award** | Co-Author |
 | 2019 | [Encoding Web-based Data for Efficient Storage in ML Applications](https://ieeexplore.ieee.org/abstract/document/9092264) | ICINPRO (IEEE) | First Author |
 | 2018 | [Analysis of Customer Opinion Using ML and NLP Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315430) | IJASSR | Co-Author |
 | 2018 | [Sales-forecasting of Retail Stores Using ML Techniques](https://ieeexplore.ieee.org/abstract/document/8768765) | CSITSS (IEEE) | Co-Author |
