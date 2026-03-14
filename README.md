@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+There!+I%27m+Animikh+Aich+%F0%9F%91%8B;Machine+Learning+%26+Computer+Vision+Engineer+%F0%9F%A4%96;Autonomous+Driving+Researcher+%F0%9F%9A%97;Building+Intelligent+Systems+from+Scratch+%F0%9F%9A%80;Published+Researcher+%40+IROS+%2725+%F0%9F%93%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+There!+I%27m+Animikh+Aich+%F0%9F%91%8B;ML+%26+Computer+Vision+Engineer+%F0%9F%A4%96;Autonomous+Driving+Researcher+%F0%9F%9A%97;Building+Intelligent+Systems+from+Scratch+%F0%9F%9A%80;Published+Researcher+%40+IROS+%2725+%F0%9F%93%9D" alt="Typing SVG" />
 </a>
 
 <br/>
