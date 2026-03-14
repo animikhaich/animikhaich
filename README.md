@@ -31,27 +31,52 @@
 
 ---
 
+## 🚀 Impact Highlights
+
+<div align="center">
+
+| 💰 Cost Savings | ⚡ Performance | 🎯 Accuracy | 🌍 Scale |
+|:-:|:-:|:-:|:-:|
+| **$1M+/year** saved via ML pipeline overhaul | **6× faster** inference with NVIDIA Triton | **+16.4% mAP** on Animal Detection | **20,000+ cameras** deployed globally |
+
+</div>
+
+---
+
 ## 📚 Research & Publications
 
-<table>
-  <tr>
-    <td>
-      <h3>🚗 End-to-End Autonomous Driving — <em>IROS '25</em></h3>
-      <p>Research conducted at the <strong>H2X Lab, Boston University</strong>, focusing on end-to-end autonomous driving systems. Presented at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025.</p>
-      <a href="https://arxiv.org/abs/2510.08571">
-        <img src="https://img.shields.io/badge/arXiv-2510.08571-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv Paper" />
-      </a>
-      &nbsp;
-      <a href="https://scholar.google.com/citations?user=S11dA3AAAAAJ&hl=en">
-        <img src="https://img.shields.io/badge/Google%20Scholar-View%20Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
-      </a>
-      &nbsp;
-      <a href="https://www.researchgate.net/profile/Animikh-Aich">
-        <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2510.08571-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.08571)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-170%2B%20Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=S11dA3AAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Animikh-Aich)
+
+</div>
+
+| Year | Paper | Venue | Role |
+|:----:|-------|-------|:----:|
+| 2025 | [Scalable Offline Metrics for Autonomous Driving](https://arxiv.org/abs/2510.08571) · [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11247722) | **IROS 2025** (IEEE) | First Author |
+| 2025 | [LatentGAN Autoencoder: Learning Disentangled Latent Distribution](https://arxiv.org/abs/2204.02010) | arXiv | Co-Author |
+| 2024 | [Towards Closing the Generalization Gap in Autonomous Driving](https://hdl.handle.net/2144/49890) | MS Thesis, Boston University | First Author |
+| 2024 | [Generative AI, Human Creativity, and Art](https://academic.oup.com/pnasnexus/article/3/3/pgae052/7618478) | PNAS Nexus | Acknowledgement |
+| 2019 | Sentiment Analysis of Restaurant Reviews Using ML Techniques | ICERECT / Springer · 🏆 **Best Paper Award** | Co-Author |
+| 2019 | [Encoding Web-based Data for Efficient Storage in ML Applications](https://ieeexplore.ieee.org/abstract/document/9092264) | ICINPRO (IEEE) | First Author |
+| 2018 | [Analysis of Customer Opinion Using ML and NLP Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3315430) | IJASSR | Co-Author |
+| 2018 | [Sales-forecasting of Retail Stores Using ML Techniques](https://ieeexplore.ieee.org/abstract/document/8768765) | CSITSS (IEEE) | Co-Author |
+
+---
+
+## 🛠️ Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🎨 [Wallpaper AI](http://wallpaperai.animikh.me/) | Stable Diffusion · GenAI | Generates high-quality 4K wallpapers from text prompts with enhancement |
+| 🚗 [Autonomous Driving](https://arxiv.org/abs/2510.08571) | PyTorch · CARLA | End-to-end CIL in a real-world model city · [Video](https://youtu.be/sYv0JlMJbRw) |
+| 🌌 [3D Text2LIVE](https://github.com/animikhaich/3D-Text2LIVE) | NeRF · Gen AI | 3D appearance editing of objects via text prompts |
+| 🛡️ [Real-Time Face Blur](https://github.com/animikhaich/OpenVINO-Real-Time-Face-Anonymizer) | OpenVINO · Edge AI | CPU-optimized privacy-preserving face anonymization |
+| 🏍️ [Helmet Detector](https://github.com/animikhaich/helmetless-rider-detection) | YOLOv3 | Helmetless rider + license plate detection with synthetic data |
+| 🏎️ [RL Racer](https://drive.google.com/file/d/1ksSx30KNB6ygsPBKB1XhazZOmrJSKEOs/view) | Double DQN · RL | Racing agent trained on OpenAI Gym CarRacing-v0 |
+| 🧠 [Zero-Code Trainer](https://github.com/animikhaich/Zero-Code-Classification-Toolkit) | Docker · Streamlit | No-code model training toolkit (AutoML) |
 
 ---
 
@@ -70,12 +95,6 @@
 <br/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animikhaich&theme=tokyonight)
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=animikhaich&theme=tokyonight" alt="Repos Per Language"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=animikhaich&theme=tokyonight" alt="Most Commit Language"/>
 
 <br/>
 
@@ -134,6 +153,13 @@
 ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+---
+
+## 🌍 Community
+
+- 🗓️ **Co-Organizer** — [Boston Computer Vision AIR](https://www.meetup.com/boston-air/) (AI, Autonomy & Robotics) — monthly meetups for 50–90+ participants from academia and industry; past events include AI-Enabled Robotics, Autonomous Vehicles, Navigation Beyond GPS, and more
+- 📖 **Manuscript Reviewer** — Manning Publications · Journal of Open Source Software (JOSS) · GTC 2025 · ICCCT 2025 · ICCI 2024
 
 ---
 
