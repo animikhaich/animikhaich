@@ -70,6 +70,7 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| 📜 [Site2LLM](https://chromewebstore.google.com/detail/hjhlmhifjbjnmdgboffpofghmhmcikci) | Chrome Extension | Converts any website to neatly structured Markdown in one click |
 | 📝 [DigitizeMyNotes](https://digitizemynotes.com/) | LLMs · OCR · RAG | Converts handwritten notes to searchable digital text with AI chat, math recognition & export |
 | 🎬 [Video Search](https://videosearch.animikh.me/) | React · Qdrant · VideoPrism | AI-powered semantic video discovery — find videos by describing what you're looking for |
 | 🖼️ [Image Search](https://imagesearch.animikh.me/) | React · Qdrant · CLIP | AI-powered semantic image discovery — find visually similar content from natural language descriptions |
