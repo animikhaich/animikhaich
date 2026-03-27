@@ -13,9 +13,9 @@
 - 💬 Let's connect! I'm up for a good chat. Find me on [X](https://x.com/animikh_aich) and [LinkedIn](https://www.linkedin.com/in/animikh-aich).
 
 # 📊 Some Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animikhaich&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=animikhaich&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=animikhaich&theme=dracula)
+![](./profile/stats.svg)
+![](./profile/top-langs.svg)
+![](./profile/pin-animikhaich.svg)
 ![](https://github-profile-trophy.vercel.app/?username=animikhaich&theme=onestar&row=1&column=6)
 ![](https://streak-stats.demolab.com?user=animikhaich&theme=cobalt&hide_border=true&card_width=600)
 
