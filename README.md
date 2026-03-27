@@ -46,7 +46,7 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.08571-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.08571)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-170%2B%20Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=S11dA3AAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-180%2B%20Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=S11dA3AAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Animikh-Aich)
 
 </div>
