@@ -11,13 +11,6 @@
 
 </div>
 
-# 📊 Some Stats
-![](./profile/stats.svg)
-![](./profile/top-langs.svg)
-![](./profile/pin-animikhaich.svg)
-![](https://github-profile-trophy.vercel.app/?username=animikhaich&theme=onestar&row=1&column=6)
-![](https://streak-stats.demolab.com?user=animikhaich&theme=cobalt&hide_border=true&card_width=600)
-
 ## 🧐 About Me
 
 <img align="right" alt="Coding AI GIF" height="270" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
@@ -93,9 +86,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=animikhaich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Animikh's GitHub Stats"/>
+<img height="180em" src="profile/stats.svg" alt="Animikh's GitHub Stats"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animikhaich&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="180em" src="profile/top-langs.svg" alt="Top Languages"/>
 
 <br/>
 
