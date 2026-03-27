@@ -11,7 +11,12 @@
 
 </div>
 
----
+# 📊 Some Stats
+![](./profile/stats.svg)
+![](./profile/top-langs.svg)
+![](./profile/pin-animikhaich.svg)
+![](https://github-profile-trophy.vercel.app/?username=animikhaich&theme=onestar&row=1&column=6)
+![](https://streak-stats.demolab.com?user=animikhaich&theme=cobalt&hide_border=true&card_width=600)
 
 ## 🧐 About Me
 
